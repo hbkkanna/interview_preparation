@@ -1,6 +1,5 @@
-package come.prepare;
+package com.prepare;
 
-import java.sql.Array;
 import java.util.*;
 
 public class InterviewCode {
