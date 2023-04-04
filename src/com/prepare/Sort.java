@@ -36,11 +36,6 @@ public class Sort {
 
 
         System.out.println( binarySearch(f, 22));
-        //int[]  f = {2, 4, 6, 23, 99};
-        //sort.bubbleSort(f);
-        //System.out.println(sort.divideArrayWithPivot(f, 0, f.length-1));
-        //sort.quickSort(f,0,f.length-1);
-
     }
 
     /**
